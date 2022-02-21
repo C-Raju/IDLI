@@ -1,20 +1,26 @@
 {
-  "name": "IDLI",
+  "name": "idli", 
   "version": "1.0.0",
   "description": "this is idli shop",
   "main": "index.js",
   "author": "shekhar",
   "scripts": {
-    "server":"node server.js",
-    "dev": "nodemon server.js"
+    "server": "node server.js",
+    "dev": "nodemon server.js",
+    "development": "mix",
+    "watch": "npx mix watch",
+    "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
   },
   "license": "MIT",
   "dependencies": {
+    "cross-env": "^7.0.3",
     "ejs": "^3.1.6",
     "express": "^4.17.2",
     "express-ejs-layouts": "^2.5.1"
   },
   "devDependencies": {
+    "laravel": "^0.0.1",
+    "laravel-mix": "^6.0.42",
     "nodemon": "^2.0.15"
   }
 }
