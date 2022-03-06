@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "SBF-Thali",
+  "image": "Food (2).jpg",
+  "price": "26",
+  "size": "LARGE"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "MasurDosa",
+  "image": "Food.jpg",
+  "price": "11",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "PlainDosa",
+  "image": "Food.jpeg",
+  "price": "6",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "MasalaDosa",
+  "image": "Food (2).png",
+  "price": "13",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Plain-Idli-Dosa",
+  "image": "Food (6).jpg",
+  "price": "10",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "Ragi-Idli",
+  "image": "Food (4).jpg",
+  "price": "12",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee66eea27a66807cf2bea8"
+  },
+  "name": "Mini-Masala-Idli",
+  "image": "Food (5).jpg",
+  "price": "14",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bea9"
+  },
+  "name": "Podi-Idli",
+  "image": "Food (3).jpg",
+  "price": "16",
+  "size": "medium"
+}]
